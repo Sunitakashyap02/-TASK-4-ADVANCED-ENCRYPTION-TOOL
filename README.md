@@ -51,3 +51,9 @@ Data protection in local apps or database entries
 
 Learning project for understanding cryptography and GUI design
 
+*OUTPUT*
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/70eb1cac-fb0f-43f8-a64f-e62219200f6c" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/44f88a27-bc36-48cb-a3c8-8c7f2884fc0a" />
+
